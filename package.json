@@ -1,0 +1,19 @@
+{
+  "name": "print",
+  "version": "1.0.0",
+  "description": "",
+  "main": "print.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dizangwang/vue-print.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dizangwang/vue-print/issues"
+  },
+  "homepage": "https://github.com/dizangwang/vue-print#readme"
+}
