@@ -7,7 +7,8 @@
 
 ## 使用
 ###  引入全局样式
-(```) @media print {
+``` 
+@media print {
     .printTarget {
         overflow-y: unset!important;
         overflow-x: unset!important;
@@ -17,10 +18,10 @@
         display: none
     }
 } 
-(```)
+```
 
 ###  用法
-(```) 
+``` 
 <img src="./1.jpg" v-print>
-(```)
+```
 
