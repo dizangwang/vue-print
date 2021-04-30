@@ -1,4 +1,5 @@
 # vue-print
+# vue打印指令插件 可以在页面中任意指定需要打印的元素
 # 用法
 ## 安装
 ### npm install vue-directive-print
