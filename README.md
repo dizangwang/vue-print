@@ -1,8 +1,8 @@
 # vue-print
 # 用法
 ## 安装
-### npm install vue-print
-### import Vueprint form 'vue-print'
+### npm install vue-directive-print
+### import Vueprint form 'vue-directive-print'
 ### Vue.use(Vueprint)
 
 ## 使用
